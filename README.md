@@ -53,7 +53,7 @@ Unity-Advanced-Editor
 ## 開発物一覧
 | 名前  | 説明 | バージョン | 更新日 |使用方法|
 | --------------------- | ---------- | ---------- | ---------- |---------- |
-| AutoSaveScene|Sceneの自動セーブ| 0.1 | 2024/10/19| <a href="AutoSaveScene"><strong>AutoSaveScene</strong></a>|
+| AutoSaveScene|Sceneの自動セーブ| 0.1 | 2024/10/19| <a href="../../wiki/AutoSaveScene"><strong>AutoSaveScene</strong></a>|
 |                     |            | | ||
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
