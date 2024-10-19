@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <p align="right"> 更新日 </p>
-<p align="right"> 2024/10/19 </p>
+<p align="right"> 2024/10/20 </p>
 
 ## 使用技術一覧
 
@@ -16,6 +16,7 @@
 1. [プロジェクトについて](#プロジェクトについて)
 2. [環境](#環境)
 3. [開発物一覧](#開発物一覧)
+4. [今後開発していくもの](#今後開発していくもの)
 
 <br />
 
@@ -46,8 +47,8 @@ Unity-Advanced-Editor
 
 | 言語・フレームワーク  | バージョン |
 | --------------------- | ---------- |
-| Unity                 |            |
-|C#                     |            |
+| Unity                 | 2022.3.36f1  |
+|C#                     |    ---     |
 
 
 ## 開発物一覧
@@ -57,3 +58,11 @@ Unity-Advanced-Editor
 |                     |            | | ||
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
+
+## 開発物一覧
+| 名前  | 説明 |  更新日 |Wiki|
+| --------------------- | ---------- | ---------- | ---------- |---------- |
+| PlayerDebug|プレイヤーコマンド| 2024/10/20| <a href="../../wiki/PlayerDebug"><strong>PlayerDebug</strong></a>|
+| DebugLogWindow|Debug専用Window| 2024/10/20| <a href="../../wiki/DebugLogWindow"><strong>DebugLogWindow</strong></a>|
+| AutoMeshCollider|BoxColliderだけで階段などの当たり判定を対応| 2024/10/20| <a href="../../wiki/AutoMeshCollider"><strong>AutoMeshCollider</strong></a>|
+| ObjectDuplication|オブジェクト複製| 2024/10/20| <a href="../../wiki/ObjectDuplication"><strong>ObjectDuplication</strong></a>|
