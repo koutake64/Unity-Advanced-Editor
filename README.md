@@ -59,7 +59,7 @@ Unity-Advanced-Editor
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
-## 開発物一覧
+## 今後開発していくもの
 | 名前  | 説明 |  更新日 |Wiki|
 | --------------------- | ---------- | ---------- | ---------- |
 | PlayerDebug|プレイヤーコマンド| 2024/10/20| <a href="../../wiki/PlayerDebug"><strong>PlayerDebug</strong></a>|
