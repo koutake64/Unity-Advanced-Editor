@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <p align="right"> 更新日 </p>
-<p align="right"> 2024/10/20 </p>
+<p align="right"> 2024/10/30 </p>
 
 ## 使用技術一覧
 
@@ -55,6 +55,7 @@ Unity-Advanced-Editor
 | 名前  | 説明 | バージョン | 更新日 |使用方法|
 | --------------------- | ---------- | ---------- | ---------- |---------- |
 | AutoSaveScene|Sceneの自動セーブ| 0.1 | 2024/10/19| <a href="../../wiki/AutoSaveScene"><strong>AutoSaveScene</strong></a>|
+| Work Time Tracker|時間計測　   | 0.1 | 2024/10/30 |未作成|
 |                     |            | | ||
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
