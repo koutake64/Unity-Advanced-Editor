@@ -11,6 +11,8 @@
 // Update:2024/10/15 基盤作成
 //       :2024/10/15 日本語対応
 //       :2024/10/20 ヘルプ用URL追加
+//       :2024/11/01 適用時の表示方法変更
+//       :2024/11/01 ヘルプの表示方法を変更
 //_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/_/
 
 using UnityEditor;
@@ -19,8 +21,6 @@ using UnityEditor.SceneManagement;
 using System.IO;
 using UnityEngine.SceneManagement;
 using System.Globalization;
-
-[HelpURL("https://github.com/koutake64/Unity-Advanced-Editor/wiki/AutoSaveScene")]
 
 public class AutoSaveScene : EditorWindow
 {
@@ -57,11 +57,14 @@ public class AutoSaveScene : EditorWindow
             {
                 EditorApplication.update -= AutoSave;
             }
-           
-            // 適用ボタンが押された時にメッセージを表示
-            EditorUtility.DisplayDialog(isJapanese ? "適用完了" : "Apply Complete",
-                isJapanese ? "設定が適用されました。" : "Settings have been applied.",
-                isJapanese ? "OK" : "OK");
+
+            ShowNotification(new GUIContent("適用完了"));
+        }
+
+        //--- ヘルプボタン
+        if (GUILayout.Button(isJapanese ? "ヘルプを開く" : "Open Help"))
+        {
+            Application.OpenURL("https://github.com/koutake64/Unity-Advanced-Editor/wiki/AutoSaveScene");
         }
     }
 
