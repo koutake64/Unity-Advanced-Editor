@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <p align="right"> 更新日 </p>
-<p align="right"> 2024/10/30 </p>
+<p align="right"> 2024/11/07 </p>
 
 ## 使用技術一覧
 
@@ -52,11 +52,11 @@ Unity-Advanced-Editor
 
 
 ## 開発物一覧
-| 名前  | 説明 | バージョン | 更新日 |使用方法|
-| --------------------- | ---------- | ---------- | ---------- |---------- |
-| AutoSaveScene|Sceneの自動セーブ| 0.1 | 2024/10/19| <a href="../../wiki/AutoSaveScene"><strong>AutoSaveScene</strong></a>|
-| Work Time Tracker|時間計測　   | 0.1 | 2024/10/30 |未作成|
-|                     |            | | ||
+| 名前  | 説明 | バージョン | 更新日 |使用方法|ダウンロード|
+| --------------------- | ---------- | ---------- | ---------- |---------- |---------- |
+| AutoSaveScene|Sceneの自動セーブ| 0.1 | 2024/10/19| <a href="../../wiki/AutoSaveScene"><strong>AutoSaveScene</strong></a>|<a href="https://github.com/koutake64/Unity-Advanced-Editor/releases/tag/AutoSaveV0.1.1"><strong>AutoSaveScene V0.1.1</strong></a>|
+| Work Time Tracker|時間計測　   | 0.1 | 2024/10/30 |未作成||
+|                     |            | | |||
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
 
