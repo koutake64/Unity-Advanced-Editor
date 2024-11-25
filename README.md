@@ -54,7 +54,7 @@ Unity-Advanced-Editor
 ## 開発物一覧
 | 名前  | 説明 | バージョン | 更新日 |使用方法|ダウンロード|
 | --------------------- | ---------- | ---------- | ---------- |---------- |---------- |
-| AutoSaveScene|Sceneの自動セーブ| 0.1 | 2024/10/19| <a href="../../wiki/AutoSaveScene"><strong>AutoSaveScene</strong></a>|<a href="https://github.com/koutake64/Unity-Advanced-Editor/releases/tag/AutoSaveV0.1.1"><strong>AutoSaveScene V0.1.1</strong></a>|
+| AutoSaveScene|Sceneの自動セーブ| 0.11 | 2024/10/19| <a href="../../wiki/AutoSaveScene"><strong>AutoSaveScene</strong></a>|<a href="https://github.com/koutake64/Unity-Advanced-Editor/releases/tag/AutoSaveV0.1.1"><strong>AutoSaveScene V0.1.1</strong></a>|
 | Work Time Tracker|時間計測　   | 0.1 | 2024/10/30 |未作成||
 |                     |            | | |||
 
@@ -67,3 +67,5 @@ Unity-Advanced-Editor
 | DebugLogWindow|Debug専用Window| 2024/10/20| <a href="../../wiki/DebugLogWindow"><strong>DebugLogWindow</strong></a>|
 | AutoMeshCollider|BoxColliderだけで階段などの当たり判定を対応| 2024/10/20| <a href="../../wiki/AutoMeshCollider"><strong>AutoMeshCollider</strong></a>|
 | ObjectDuplication|オブジェクト複製| 2024/10/20| <a href="../../wiki/ObjectDuplication"><strong>ObjectDuplication</strong></a>|
+|Story Editor| ラブコメ用エディタ| 2024/11/25| None|
+||| | |
