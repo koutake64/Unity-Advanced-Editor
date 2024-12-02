@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <p align="right"> 更新日 </p>
-<p align="right"> 2024/11/07 </p>
+<p align="right"> 2024/12/02 </p>
 
 ## 使用技術一覧
 
@@ -67,5 +67,6 @@ Unity-Advanced-Editor
 | DebugLogWindow|Debug専用Window| 2024/10/20| <a href="../../wiki/DebugLogWindow"><strong>DebugLogWindow</strong></a>|
 | AutoMeshCollider|BoxColliderだけで階段などの当たり判定を対応| 2024/10/20| <a href="../../wiki/AutoMeshCollider"><strong>AutoMeshCollider</strong></a>|
 | ObjectDuplication|オブジェクト複製| 2024/10/20| <a href="../../wiki/ObjectDuplication"><strong>ObjectDuplication</strong></a>|
-|Story Editor| ラブコメ用エディタ| 2024/11/25| None|
+|Story Editor| ラブコメ用エディタ| 2024/11/25| None |
+|Hierarchy Comment| Hierarchyにコメントを付与| 2024/12/02 | None |
 ||| | |
