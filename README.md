@@ -1,7 +1,7 @@
 <div id="top"></div>
 
 <p align="right"> 更新日 </p>
-<p align="right"> 2025/01/10 </p>
+<p align="right"> 2025/01/20 </p>
 
 ## 使用技術一覧
 
@@ -57,6 +57,7 @@ Unity-Advanced-Editor
 | AutoSaveScene|Sceneの自動セーブ| 0.11 | 2024/10/19| <a href="../../wiki/AutoSaveScene"><strong>AutoSaveScene</strong></a>|<a href="https://github.com/koutake64/Unity-Advanced-Editor/releases/tag/AutoSaveV0.1.1"><strong>AutoSaveScene V0.1.1</strong></a>|
 | Work Time Tracker|時間計測　   | 0.1 | 2024/10/30 |未作成||
 | ObjectDuplication|オブジェクト複製| 0.1 |2025/01/10| <a href="../../wiki/ObjectDuplication"><strong>ObjectDuplication</strong></a>|
+| SceneSelectorDrawer　| シーン遷移選択をプルダウンに | 0.1 | 2025/01/20 |<a href="../../wiki/SceneSelectorDrawer"><strong>SceneSelectorDrawer</strong></a>||
 |                     |            | | |||
 
 <p align="right">(<a href="#top">トップへ</a>)</p>
